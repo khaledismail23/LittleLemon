@@ -1,0 +1,30 @@
+Users:
+    rula:
+        password = lemon@123!
+        Group = Manager
+        Token = e5780bb20155370ffef717712db5cc27bb67cd66
+    ziad:
+        password = lemon@123!
+        Group = Manager
+        Token = e10707a9bd38f8285e6f0cecb1cd6905f50c84bc
+    amjad:
+        password = lemon@123!
+        Group = Delivery crew
+        Token = 48376ea5e5f9a882a7e906f2e9caef33b939eafb
+    ahmed:
+        password = lemon@123!
+        Group = Delivery crew
+        Token = 2187c0da2931eabb26e67a51b5a60b96b3f5b746
+    ruba:
+        password = lemon@123!
+        Group = Customer
+        Token = 7c29e86486d63450e4c39e63e6c97257421d0810
+    dina:
+        password = lemon@123!
+        Group = Customer
+        Token = 2b3c737413875d7b3bb3cc0a094d988aab65e6c9
+    fatima:
+        password = lemon@123!
+        Group = Customer
+        Token = 562198c6b336a827f996189f2d3de94cd354761e
+    
